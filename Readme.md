@@ -16,7 +16,6 @@ To run the test:
 docker build. -t docker-error-log
 
 docker run -it -p "32880: 80" docker-error-log
-
 ```
 Inside our browser we go to 
 
