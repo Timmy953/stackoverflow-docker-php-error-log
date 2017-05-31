@@ -1,4 +1,4 @@
-##See php error un apache2 log
+## See php error un apache2 log
 
 This is based on the php:5.6-apache image
 
